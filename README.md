@@ -1,4 +1,10 @@
-# Hey friends!
+# Hey y'all! My name is Caleb Werth.
+
+I'm an adventurous software engineer that loves, in no particular order, Python, hiking, Vim, running, and coffee.
+
+![](Logo.png)
+
+
 
 <!--
 **chwerth/chwerth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
