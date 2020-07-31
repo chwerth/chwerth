@@ -2,7 +2,7 @@
 
 I'm an adventurous software engineer that loves, in no particular order, Python, hiking, Vim, running, and coffee.
 
-![](Logo.png)
+![](https://raw.githubusercontent.com/chwerth/chwerth/master/Logo.png)
 
 
 
